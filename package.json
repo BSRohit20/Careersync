@@ -1,5 +1,30 @@
+<<<<<<< HEAD
 {
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.0"
   }
 }
+=======
+{
+  "name": "career-prediction-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.6.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "vite": "^7.1.2"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build"
+  }
+}
+>>>>>>> 6e6c1322e8c52cece61326fa35115e1d282923d5
